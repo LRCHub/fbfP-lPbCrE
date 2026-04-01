@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Air & Api",
+  "base_artist": "Naif",
+  "createdAt": "2026-04-01T13:21:53.310972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Air",
+      "artist": "MellowHigh",
+      "has_synced": true,
+      "path": "select/01_Air_MellowHigh.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Air Aid",
+      "artist": "Menomena",
+      "has_synced": false,
+      "path": "select/02_Air_Aid_Menomena.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In the Air Tonight - 2015 Remaster",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/03_In_the_Air_Tonight_-_2015_Remaster_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Castle in the Air",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/04_The_Castle_in_the_Air_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Castle in the Air",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_The_Castle_in_the_Air_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dead Air",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/06_Dead_Air_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Runnin' out of Air",
+      "artist": "Love and Theft",
+      "has_synced": true,
+      "path": "select/07_Runnin'_out_of_Air_Love_and_Theft.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Speak To Me/Breathe (Breathe In The Air)",
+      "artist": "Pink Floyd",
+      "has_synced": false,
+      "path": "select/08_Speak_To_Me_Breathe_(Breathe_In_The_Air)_Pink_Floyd.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Where The Air Seemed To Cease",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/09_Where_The_Air_Seemed_To_Cease_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Something in the Air",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_Something_in_the_Air_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Something in the Air",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Something_in_the_Air_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Something in the Air - American Psycho Remix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Something_in_the_Air_-_American_Psycho_Remix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Something in the Air (American Psycho Remix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/13_Something_in_the_Air_(American_Psycho_Remix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bel Air",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/14_Bel_Air_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Vast Air - Tippin Dominoes (Rjd2 Remix)",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/15_Vast_Air_-_Tippin_Dominoes_(Rjd2_Remix)_RJD2.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "From the Air",
+      "artist": "Laurie Anderson",
+      "has_synced": false,
+      "path": "select/16_From_the_Air_Laurie_Anderson.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Thin Air",
+      "artist": "Lapalux feat. JFDR",
+      "has_synced": false,
+      "path": "select/17_Thin_Air_Lapalux_feat._JFDR.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Thin Air",
+      "artist": "Lapalux",
+      "has_synced": false,
+      "path": "select/18_Thin_Air_Lapalux.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Air Walker Intro",
+      "artist": "Mt. Eden",
+      "has_synced": false,
+      "path": "select/19_Air_Walker_Intro_Mt._Eden.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Air Walker",
+      "artist": "Mt Eden feat. Diva Ice",
+      "has_synced": true,
+      "path": "select/20_Air_Walker_Mt_Eden_feat._Diva_Ice.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Air dan Api",
+      "artist": "Naif",
+      "has_synced": false,
+      "path": "select/pl_01_Air_dan_Api_Naif.txt"
+    }
+  ]
+}
